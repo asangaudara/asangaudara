@@ -3,7 +3,8 @@
 <p align="center">
 <img width="50%" align="left" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif"/>
 </p>
-<h1 size="100%">Hi there, I'm Asanga Udara 👋</h1>
+<td></td>
+<h1>Hi there, I'm Asanga Udara 👋</h1>
 <!--rule -->
 
 
