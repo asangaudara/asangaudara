@@ -52,8 +52,10 @@
   <code><img width="10%"  src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg"></code>
   <br>
 </p>  
+<p align="left">
+<img width="55%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asangaudara&layout=compact">
+</p>
 
-- ![Profile views](https://github-readme-stats.vercel.app/api/top-langs/?username=asangaudara&layout=compact)
 #### Profile views counter
 - [![Visitor Count](https://profile-counter.glitch.me/%7Basangaudara%7D/count.svg)
 
