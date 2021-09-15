@@ -33,11 +33,6 @@
 <img width="55%" align="left" src="https://github-readme-stats.vercel.app/api?username=RazorKenway&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 </p>
 
-
-
-
-
-
 <p align ="right">
   <br />
   <code><img width="10%"  src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
@@ -57,14 +52,6 @@
   <code><img width="10%"  src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg"></code>
   <br>
 </p>  
-
-
-
-
-
-
-
-
 #### Profile views counter
 ![Visitor Count](https://profile-counter.glitch.me/%7Basangaudara%7D/count.svg)
 
