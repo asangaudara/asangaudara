@@ -63,8 +63,7 @@
 <img width="54%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asangaudara&layout=compact">
 </p>
 
-#### Profile views counter
-- [![Visitor Count](https://profile-counter.glitch.me/%7Basangaudara%7D/count.svg)
+
 
 
 
