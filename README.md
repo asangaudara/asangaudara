@@ -20,7 +20,6 @@
 	<a href="https://twitter.com/asangabro"><img alt="twitter" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/twitter.png"/></a>
 </p>
 
-
 <div align="right">
 <img align="right" src="https://github.com/RazorKenway/RazorKenway/blob/main/Developer.gif"/>
 </div>
