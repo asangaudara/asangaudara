@@ -3,10 +3,8 @@
 <p align="center">
 <img width="50%" align="left" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif"/>
 </p>
-<td></td><td></td><td></td>
-<h1>Hi there, I'm Asanga Udara 👋</h1>
-<!--rule -->
-
+# Hi there, I'm Asanga Udara 👋
+<hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
 &nbsp;
 - 👨🏽‍💻 HELLO I’m Asanga Udara ;
@@ -15,7 +13,7 @@
 - 🤔 I’m looking for New programming methord;
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ I'm Still Student;
-<hr style="height:2px;border-width:0;color:gray;background-color:gray">
+
 
 ### Feel Free to Contact me.....
 
