@@ -52,6 +52,7 @@
   <code><img width="10%"  src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg"></code>
   <br>
 </p>  
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Profile views counter
 - [![Visitor Count](https://profile-counter.glitch.me/%7Basangaudara%7D/count.svg)
