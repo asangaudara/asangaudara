@@ -6,7 +6,7 @@
 <td></td><td></td><td></td>
 <h1>Hi there, I'm Asanga Udara 👋</h1>
 <!--rule -->
-
+<hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
 &nbsp;
 - 👨🏽‍💻 HELLO I’m Asanga Udara ;
