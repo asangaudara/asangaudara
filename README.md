@@ -52,8 +52,9 @@
   <code><img width="10%"  src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg"></code>
   <br>
 </p>  
+
 #### Profile views counter
-[!Visitor Count](https://profile-counter.glitch.me/%7Basangaudara%7D/count.svg)
+- [![Visitor Count](https://profile-counter.glitch.me/%7Basangaudara%7D/count.svg)
 
 
 
