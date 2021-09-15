@@ -4,6 +4,9 @@
 <img width="50%" align="left" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif"/>
 </p>
 <h1>Hi there, I'm Asanga Udara 👋</h1>
+
+
+
 &nbsp;
 - 👨🏽‍💻 HELLO I’m Asanga Udara ;
 - 🌱 I’m currently learning Python Linux Shell Html PHP Java JS CSS C++  ; 
@@ -11,6 +14,9 @@
 - 🤔 I’m looking for New programming methord;
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ I'm Still Student;
+
+
+
 ### Feel Free to Contact me.....
 
 <p align="center">
