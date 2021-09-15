@@ -5,9 +5,17 @@
 </p>
 
 
-- I'm  **Learner** | **Programmer** | **ML & DS Enthusiast**
-- Currently Learning **Java**, **Python**, **Web Development** And **Machine Learning**
-- Willing to contribute more and more in **Open Source Projects**
+<!--rule -->
+<hr style="height:2px;border-width:0;color:gray;background-color:gray">
+
+
+&nbsp;
+- 👨🏽‍💻 HELLO I’m Asanga Udara ;
+- 🌱 I’m currently learning Python Linux Shell Html PHP Java JS CSS C++  ; 
+- ⚡️ I’m looking to collaborate on [Asanga Udara](www.asangabro.ga) 🤝;
+- 🤔 I’m looking for New programming methord;
+- 💬 Ask me about anything, I am happy to help;
+- ⚡️ I'm Still Student;
 
 
 ### Feel Free to Contact me.....
