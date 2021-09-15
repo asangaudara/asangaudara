@@ -53,7 +53,7 @@
   <br>
 </p>  
 <p align="left">
-<img width="55%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asangaudara&layout=compact">
+<img width="50%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asangaudara&layout=compact">
 </p>
 
 #### Profile views counter
