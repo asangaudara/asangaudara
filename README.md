@@ -53,7 +53,7 @@
   <br>
 </p>  
 
-- ![Profile views]https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+- ![Profile views](https://github-readme-stats.vercel.app/api/top-langs/?username=asangaudara&layout=compact)
 #### Profile views counter
 - [![Visitor Count](https://profile-counter.glitch.me/%7Basangaudara%7D/count.svg)
 
