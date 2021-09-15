@@ -53,7 +53,7 @@
   <br>
 </p>  
 #### Profile views counter
-![Visitor Count](https://profile-counter.glitch.me/%7Basangaudara%7D/count.svg)
+[!Visitor Count](https://profile-counter.glitch.me/%7Basangaudara%7D/count.svg)
 
 
 
