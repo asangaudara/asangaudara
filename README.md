@@ -1,7 +1,7 @@
 ## Hi there, I'm Asanga Udara 
 
 <p align="center">
-<img width="20%" src="https://pics.freeicons.io/uploads/icons/png/17524473901594721603-512.png"/>
+<img width="20%" src="https://i.pinimg.com/originals/50/83/e0/5083e0a2a7dcaae07c142e8b87036a27.gif"/>
 </p>
 
 
