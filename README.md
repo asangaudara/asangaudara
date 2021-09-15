@@ -30,12 +30,12 @@
 - [![GitHub followers](https://img.shields.io/github/followers/RazorKenway.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/RazorKenway?tab=followers)
 
 <p align="left">
-<img width="57%" align="left" src="https://github-readme-stats.vercel.app/api?username=RazorKenway&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img width="55%" align="left" src="https://github-readme-stats.vercel.app/api?username=RazorKenway&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 </p>
 
 <p align ="right">
   <br />
-  <code><img width="10%"  src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+  <code><img width="10%" style="padding:5px" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
   <code><img width="10%"  src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-official.svg"></code>
   <code><img width="10%"  src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-official.svg"></code>
   <br />  
