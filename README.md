@@ -21,7 +21,7 @@
 </p>
 
 <div align="right">
-<img width="20% align="right" src="https://github.com/RazorKenway/RazorKenway/blob/main/Developer.gif"/>
+<img align="right" src="https://github.com/RazorKenway/RazorKenway/blob/main/Developer.gif"/>
 </div>
 
 
