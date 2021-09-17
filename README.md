@@ -64,6 +64,6 @@
 </p>
 
 
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=asangaudara&theme=deepBlue)](https://git.io/streak-stats)
 
 
