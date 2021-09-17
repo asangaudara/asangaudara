@@ -65,10 +65,7 @@
   </a>
 </p>
 <a href="h
-<p align="left">
-<img width="54%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asangaudara&layout=compact">
-</p>
-
+<a href="https://github.com/asangaudara"><img alt="sadew's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=asangaudara&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 
 
