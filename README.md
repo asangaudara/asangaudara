@@ -63,7 +63,8 @@
 <img width="54%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asangaudara&layout=compact">
 </p>
 
+<img width="55%" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=asangaudara#version3">
+</p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=asangaudara&theme=deepBlue)](https://git.io/streak-stats)
 
 
