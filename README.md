@@ -59,8 +59,12 @@
   <code><img width="10%"  src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg"></code>
   <br>
 </p>
-<img width="55%" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=asangaudara#version3">
+<p align="center">
+  <a href="https://github.com/asangaudara">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=asangaudara#version3"/>
+  </a>
 </p>
+<a href="h
 <p align="left">
 <img width="54%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asangaudara&layout=compact">
 </p>
