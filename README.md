@@ -33,7 +33,7 @@
 
 
 # GITHUB STATUS.
-- ![Profile views](https://gpvc.arturio.dev/asangaudara)
+- ![Profile views](https://gpvc.arturio.dev/asangaudara1)
 - [![GitHub followers](https://img.shields.io/github/followers/asangaudara.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/asangaudara?tab=followers)
 - [![GitHub followers](https://img.shields.io/github/followers/asangaudara.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/asangaudara?tab=followers)
 <p align="left">
